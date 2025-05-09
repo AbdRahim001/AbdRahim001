@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abd_rahim001" target="blank"><img src="https://img.shields.io/twitter/follow/abd_rahim001?logo=twitter&style=for-the-badge" alt="abd_rahim001" /></a> </p>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **captainabdurrahim@gmail.com**
 
