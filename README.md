@@ -1,37 +1,50 @@
-# Hi 👋, I'm Abdur Rahim
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Abdur Rahim</h1>
+<h3 align="center">Future Programmer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdRahim001&label=Profile%20views&color=0e75b6&style=flat" alt="AbdRahim001" /> </p>
 
-### Future Programmer
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdRahim001&theme=dark_lover" alt="AbdRahim001" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdRahim001" alt="AbdRahim001" /></a> </p>
-
-- 🔭 I'm currently working on **Solving Codeforces and Leetcode problems**
-
-- 🌱 I'm currently learning **C++**
-
-- 👯 I'm looking to collaborate on **open source project**
+- 🔭 I’m currently working on **Solving Codeforces and Leetcode problems**
+- 👯 I’m looking to collaborate on **open source project**
+- 🌱 I’m currently learning **C++,JAVA**
 
 - 📫 How to reach me **captainabdurrahim@gmail.com**
-
 - ⚡ Fun fact **I feel like I try to solve a problem that i have no idea about and fail**
 
-<h3 align="left">Connect with me:</h3>
+<div> <a href="https://twitter.com/ABD_Rahim001" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ captainabd" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/AbdRahim001" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/ captainabd_001" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:captainabdurrahim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/AbdRahim001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdRahim001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ captainabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" captainabd" height="30" width="40" /></a>
-<a href="https://fb.com/CaptainAbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CaptainAbd" height="30" width="40" /></a>
-<a href="https://instagram.com/ captainabd_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" captainabd_001" height="30" width="40" /></a>
-<a href="https://twitter.com/ABD_Rahim001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ABD_Rahim001" height="30" width="40" /></a>
-<a href="https://codechef.com/users/abd_rahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="abd_rahim" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ABD_RAHIM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ABD_RAHIM" height="30" width="40" /></a>
-<a href="https://leetcode.com/ABD_RAHIM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ABD_RAHIM" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/ABD_Rahim001" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ABD_Rahim001" height="30" width="40" /></a><a href="https://linkedin.com/in/ captainabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt=" captainabd" height="30" width="40" /></a><a href="https://fb.com/CaptainAbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="CaptainAbd" height="30" width="40" /></a><a href="https://www.leetcode.com/ABD_RAHIM" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="ABD_RAHIM" height="30" width="40" /></a><a href="https://instagram.com/ captainabd_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt=" captainabd_001" height="30" width="40" /></a><a href="https://codeforces.com/profile/ABD_RAHIM" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="ABD_RAHIM" height="30" width="40" /></a><a href="https://www.codechef.com/users/abd_rahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="abd_rahim" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a></p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdRahim001&show_icons=true&locale=en&layout=compact" alt="AbdRahim001" /></p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdRahim001&layout=compact&theme=" alt=AbdRahim001 />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdRahim001&show_icons=true&locale=en" alt="AbdRahim001" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdRahim001&show_icons=true&locale=en&theme=" alt="AbdRahim001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdRahim001&" alt="AbdRahim001" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdRahim001&theme=" alt="AbdRahim001" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/AbdRahim001">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdRahim001&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdRahim001&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdRahim001&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdRahim001&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdRahim001&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdRahim001&theme=default"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
